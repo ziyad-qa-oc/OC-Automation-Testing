@@ -47,15 +47,15 @@
       ```bash
       cd autotesting-onecredit
       ```
-4. Run Tests
-   a) Run a specific test (headed mode):
-      ```bash
-      npx playwright test N.spec.ts --headed
-      ```
-   b) Run all tests:
-      ```bash      
-      npx playwright test
-      ```
+4. Run Tests  
+   - Run a specific test (headed mode):  
+     ```bash
+     npx playwright test N.spec.ts --headed
+     ```
+   - Run all tests:  
+     ```bash
+     npx playwright test
+     ```
 5. View Reports
       ```bash
       npx playwright show-report
