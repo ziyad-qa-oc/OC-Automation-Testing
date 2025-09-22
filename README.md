@@ -30,7 +30,7 @@
    
 ---
 
-##⚡ Setup & Run
+## ⚡ Setup & Run
 1. Clone the Repository
       ```bash
       git clone https://github.com/ziyad-qa-oc/OC-Automation-Testing.git
@@ -73,6 +73,9 @@
    git push -u origin my-branch
    ```
    After this, simply use git push for updates.
+   ```bash
+   git push
+   ```
    
 ---
 
