@@ -14,7 +14,8 @@
 
 ## 🛠 Tech Stack
 - **Framework**: [Playwright](https://playwright.dev/)  
-- **Language**: [TypeScript ](https://www.typescriptlang.org/docs/) 
+- **Language**: [TypeScript ](https://www.typescriptlang.org/docs/)
+- **Coding IDE**: [Cursor](https://cursor.com/cn/agents/)
 
 ---
 
@@ -26,7 +27,7 @@
    npx playwright install
    ```
 3) Install Git to interact with Github. <https://git-scm.com/downloads>
-4) Install Cursor as Code IDE. <https://cursor.com/cn/agents>
+4) Install Cursor as Coding IDE. <https://cursor.com/cn/agents>
    
 ---
 
