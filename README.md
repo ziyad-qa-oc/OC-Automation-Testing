@@ -75,7 +75,7 @@
    
 ---
 
-🔎 Code Review & Merge
+## 🔎 Code Review & Merge
 
 1. Push your branch:
    ```
