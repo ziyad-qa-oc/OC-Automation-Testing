@@ -72,6 +72,8 @@
    git push -u origin my-branch
    ```
    After this, simply use git push for updates.
+   
+---
 
 🔎 Code Review & Merge
 
