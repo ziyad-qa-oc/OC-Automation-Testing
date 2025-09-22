@@ -4,6 +4,7 @@
 ![Playwright](https://img.shields.io/badge/playwright-latest-blue)  
 ![TypeScript](https://img.shields.io/badge/typescript-5.x-blue)  
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)  
+![Build](https://github.com/ziyad-qa-oc/OC-Automation-Testing/actions/workflows/playwright.yml/badge.svg)
 
 ## 📌 Scope
 - **Regression Testing**: [QA-142: Regression Testcase](https://linear.app/onecreditint/issue/QA-142/regression-testcase)
