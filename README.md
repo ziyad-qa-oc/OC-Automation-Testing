@@ -7,7 +7,7 @@
 
 ## 📌 Scope
 - **Regression Testing**: [Linear QA-142](https://linear.app/onecreditint/issue/QA-142/regression-testcase)  
-- **Smoke Testing**
+- **Smoke Testing**:
 
 ---
 
@@ -81,11 +81,11 @@
    ```
    git push -u origin my-branch
    ```
-2. On GitHub:
-   a) Open a Pull Request (PR)
-   b) Reviewer will check the code
+2. On GitHub:  
+   a) Open a Pull Request (PR)  
+   b) Reviewer checks the code  
    c) Click Merge pull request → Confirm
-   
+
 ---
 
 ## 🧰 Common Commands
