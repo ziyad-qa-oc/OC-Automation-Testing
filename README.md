@@ -6,7 +6,7 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)  
 
 ## 📌 Scope
-- **Regression Testing**: [Linear QA-142](https://linear.app/onecreditint/issue/QA-142/regression-testcase)  
+- **Regression Testing**: [QA-142: Regression Testcase](https://linear.app/onecreditint/issue/QA-142/regression-testcase)
 - **Smoke Testing**:
 
 ---
