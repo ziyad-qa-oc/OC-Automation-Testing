@@ -14,7 +14,7 @@
 
 ## 🛠 Tech Stack
 - **Framework**: [Playwright](https://playwright.dev/)  
-- **Language**: TypeScript  
+- **Language**: [TypeScript ](https://www.typescriptlang.org/docs/) 
 
 ---
 
