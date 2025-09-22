@@ -1,4 +1,4 @@
-# 🚀 Automation Testing – Technical Specs
+# ⚙️ Automation Testing
 
 ![Node.js](https://img.shields.io/badge/node-%3E%3D%2018-green)  
 ![Playwright](https://img.shields.io/badge/playwright-latest-blue)  
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stacks
 - **Framework**: [Playwright](https://playwright.dev/)  
 - **Language**: [TypeScript ](https://www.typescriptlang.org/docs/)
 - **Coding IDE**: [Cursor](https://cursor.com/cn/agents/)
