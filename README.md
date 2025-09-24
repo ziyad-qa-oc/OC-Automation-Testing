@@ -6,6 +6,18 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)  
 ![Build](https://github.com/ziyad-qa-oc/OC-Automation-Testing/actions/workflows/playwright.yml/badge.svg)
 
+---
+
+## 📚 What it is?
+- To automate testcases that were manually done before.
+- Reduce workload, especially for repetitive testcases.
+
+## Video Representation
+https://drive.google.com/file/d/1rMNuK9zinkn64q-iXUwKxZIyCv_jMdIs/view?usp=drive_link
+- Playwright will run the automation on 3 separate browsers (Chromium, Firefox, WebKit) in parallel (in 1 time)
+
+---
+
 ## 📌 Scope
 - **Regression Testing**: [QA-142: Regression Testcase](https://linear.app/onecreditint/issue/QA-142/regression-testcase)
 - **Smoke Testing**:
